@@ -1,5 +1,5 @@
-# DNN-SemiSupervised-Learning
-Source code for regression experiments with semi-supervised learning.
+# WindTurbine-EnergyPrediction-DNN-SSL
+Deep Semi-Supervised Learning for Predicting the Internal Energy Consumption of a Wind Turbine
 
 ## Overview
 This repository provides the source code and experiments for analyzing **supervised**, **semi-supervised**, and **traditional machine learning** methods within the context of predictive modeling. The motivation behind this work is to investigate how unlabeled data can be effectively leveraged through **semi-supervised learning (SSL)** to achieve performance improvements over classical methods, which typically rely solely on limited labeled data.
