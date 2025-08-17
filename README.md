@@ -22,7 +22,7 @@ This repository provides the source code and experiments for analyzing **supervi
   - `ada.py` (AdaBoost)
   - `knn.py` (K-Nearest Neighbors)
 
-- **main/**  
+- **main**  
   Contains the proposed **3-Stage SSL method**, which integrates supervised pretraining, consistency regularization, and iterative pseudo-label refinement.
 
 - **SHAP.ipynb**  
