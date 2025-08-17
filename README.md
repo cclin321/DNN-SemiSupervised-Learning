@@ -25,6 +25,10 @@ This repository provides the source code and experiments for analyzing **supervi
 - **main/**  
   Contains the proposed **3-Stage SSL method**, which integrates supervised pretraining, consistency regularization, and iterative pseudo-label refinement.
 
+- **SHap.ipynb**  
+  This notebook demonstrates model interpretability using **SHAP (SHapley Additive exPlanations)**.  
+  It provides insights into how individual features contribute to predictions, helping validate model behavior and improving transparency of both traditional ML and deep learning models.
+
 ---
 
 ## Methodology of the Proposed SSL Approach
