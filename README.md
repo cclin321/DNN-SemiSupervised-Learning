@@ -1,8 +1,6 @@
 # DNN-SemiSupervised-Learning
 Source code for regression experiments with semi-supervised learning.
 
-# Semi-Supervised Learning for Predictive Modeling
-
 ## Overview
 This repository provides the source code and experiments for analyzing **supervised**, **semi-supervised**, and **traditional machine learning** methods within the context of predictive modeling.  
 The motivation behind this work is to investigate how unlabeled data can be effectively leveraged through **semi-supervised learning (SSL)** to achieve performance improvements over classical methods, which typically rely solely on limited labeled data.
